@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with AWS Amplify
+          Deploying App on AWS EC2
         </a>
       </header>
     </div>
